@@ -1,3 +1,7 @@
+<p align="left">
+  <img src="https://i.ibb.co/GxYPdsn/emoji.png" alt="emoji" border="0" width="100">
+</p>  
+
 ### Hi there 👋
 
 <!--
