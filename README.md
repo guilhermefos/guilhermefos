@@ -18,7 +18,7 @@
   <img src="https://i.ibb.co/GxYPdsn/emoji.png" alt="emoji" border="0" width="100">
 </p>  
 
-### Hi there 👋
+### Hi there! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
 
 <!--
 **guilhermefos/guilhermefos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
