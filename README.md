@@ -20,11 +20,12 @@
 
 👋🏽  &nbsp; What's up! I'm currently working full-time at [Recrutei](https://recrutei.com.br) as Front End Enginner
 
-🌱 &nbsp; ### Learning never exhausts the mind
+### Learning never exhausts the mind 🌱 
 
 - Addicted to learning and apply my knowledge to change things a little bit in the world
+- I've been using A/B testing with [Optimizely](https://www.optimizely.com) and [Firebase](https://firebase.google.com) to understand users behavior and build features that they love to use
 
-### Languages and Tools
+### Languages and Tools ⚙️
 
 <br/>
 
@@ -154,7 +155,7 @@
   </a>
 </p>
 
-🌎 &nbsp; ### Find me
+### Find me 🌎 
 
 - 🧑🏽‍💻 Connectiong ans sharing professional updates on [LinkedIn](https://www.linkedin.com/in/guilherme-silva-dev/)
 - 🐦 Follow me on [Twitter](https://twitter.com/guilhermefosdev)
