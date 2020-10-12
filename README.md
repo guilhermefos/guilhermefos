@@ -20,6 +20,10 @@
 
 👋🏽  &nbsp; What's up! I'm currently working full-time at [Recrutei](https://recrutei.com.br) as Front End Enginner
 
+🌱 &nbsp; ### Learning never exhausts the mind
+
+- Addicted to learning and apply my knowledge to change things a little bit in the world
+
 ### Languages and Tools
 
 <br/>
@@ -150,13 +154,16 @@
   </a>
 </p>
 
+🌎 &nbsp; ### Find me
+
+- 🧑🏽‍💻 Connectiong ans sharing professional updates on [LinkedIn](https://www.linkedin.com/in/guilherme-silva-dev/)
+- 🐦 Follow me on [Twitter](https://twitter.com/guilhermefosdev)
 <!--
 **guilhermefos/guilhermefos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
