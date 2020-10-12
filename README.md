@@ -157,7 +157,7 @@
 
 ### Find me 🌎 
 
-- 🧑🏽‍💻 Connectiong ans sharing professional updates on [LinkedIn](https://www.linkedin.com/in/guilherme-silva-dev/)
+- 🧑🏽‍💻 Connecting and sharing professional updates on [LinkedIn](https://www.linkedin.com/in/guilherme-silva-dev/)
 - 🐦 Follow me on [Twitter](https://twitter.com/guilhermefosdev)
 <!--
 **guilhermefos/guilhermefos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
