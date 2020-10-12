@@ -68,10 +68,26 @@
       height="40"
     />
   </a>
+  <a href="https://laravel.com" target="_blank">
+    <img
+      src="https://devicons.github.io/devicon/devicon.git/icons/laravel/laravel-plain.svg"
+      alt="laravel"
+      width="40"
+      height="40"
+    />
+  </a>
   <a href="https://www.postgresql.org" target="_blank">
     <img
       src="https://devicons.github.io/devicon/devicon.git/icons/postgresql/postgresql-original-wordmark.svg"
       alt="postgresql"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://www.php.net" target="_blank">
+    <img
+      src="https://devicons.github.io/devicon/devicon.git/icons/php/php-plain.svg"
+      alt="php"
       width="40"
       height="40"
     />
@@ -84,6 +100,22 @@
       height="40"
     />
   </a>
+  <a href="https://redux.js.org" target="_blank">
+    <img
+      src="https://devicons.github.io/devicon/devicon.git/icons/redux/redux-original.svg"
+      alt="redux"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://vuejs.org" target="_blank">
+    <img
+      src="https://devicons.github.io/devicon/devicon.git/icons/vuejs/vuejs-original.svg"
+      alt="vuejs"
+      width="40"
+      height="40"
+    />
+  </a>
   <a href="https://www.typescriptlang.org/" target="_blank">
     <img
       src="https://devicons.github.io/devicon/devicon.git/icons/typescript/typescript-original.svg"
@@ -92,10 +124,26 @@
       height="40"
     />
   </a>
-  <a href="https://www.typescriptlang.org/" target="_blank">
+  <a href="https://expressjs.com" target="_blank">
     <img
       src="https://devicons.github.io/devicon/devicon.git/icons/express/express-original.svg"
-      alt="typescript"
+      alt="express"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+    <img
+      src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original.svg"
+      alt="html"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Archive/CSS3" target="_blank">
+    <img
+      src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original.svg"
+      alt="css3"
       width="40"
       height="40"
     />
